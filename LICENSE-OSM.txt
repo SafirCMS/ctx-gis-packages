@@ -1,0 +1,6 @@
+Open Database License (ODbL) v1.0 — OpenStreetMap
+
+GIS packages in this repository contain OpenStreetMap data processed for
+MapLibre/PMTiles offline use. © OpenStreetMap contributors.
+
+Full license: https://opendatacommons.org/licenses/odbl/1-0/

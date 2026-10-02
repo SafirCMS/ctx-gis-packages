@@ -1,0 +1,13 @@
+Stockholm County Detailed — PMTiles
+
+Format: PMTiles (Mapbox Vector Tiles)
+Schema: Shortbread 1.0
+Coverage: Stockholms län (OSM relation 54391 envelope)
+Zoom: 0–14
+Size: 76993479 bytes
+SHA-256: e6115313ed40eeadceda960dfc3c9a6e6db18c6ce9296504e3a106d4f209a41c
+
+Source: OpenStreetMap via Geofabrik Sweden Shortbread (cropped to county envelope).
+
+Attribution: © OpenStreetMap contributors / Geofabrik
+License: ODbL 1.0
