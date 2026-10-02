@@ -1,4 +1,4 @@
-# CTX GIS Data Packages
+﻿# CTX GIS Data Packages
 
 Public distribution repository for Safir CTX GIS offline map packages.
 
@@ -10,14 +10,20 @@ It does not contain Safir CTX application source code.
 | Package | File | Release |
 | --- | --- | --- |
 | Stockholm County Detailed | `stockholm-county-detailed.pmtiles` | GIS-2026.10 |
+| Stockholm City High Detail | `stockholm-city-highdetail.pmtiles` | GIS-2026.10 |
 
-Coverage: Stockholms län (Sweden), Shortbread vector tiles (PMTiles / MVT), zoom 0–14.
+Coverage:
+- County: Stockholms län, Shortbread vector tiles (PMTiles / MVT), zoom 0–14
+- City High: Stockholms kommun, OpenMapTiles (PMTiles / MVT), zoom 0–16
 
 ## License / attribution
 
 OpenStreetMap data © OpenStreetMap contributors, licensed under ODbL 1.0.
+OpenMapTiles schema/work © OpenMapTiles (CC-BY).
 See `LICENSE-OSM.txt` and package `NOTICE.txt` files.
 
 ## Release
 
-GitHub Release **GIS-2026.10** should attach `stockholm-county-detailed.pmtiles` as a release asset.
+GitHub Release **GIS-2026.10** attaches:
+- `stockholm-county-detailed.pmtiles`
+- `stockholm-city-highdetail.pmtiles`
